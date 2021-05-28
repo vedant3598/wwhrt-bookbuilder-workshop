@@ -1,5 +1,13 @@
 # The Hudson River Trading Bookbuilder Workshop
 
+I had the opportunity to participate in Hudson River Trading's invite-only Bookbuilder workshop which required participants to write optimized C++ code for a BookBuilder and
+the session was led by HRTers who work on the Core Engineering team and are responsible for building and optimizing HRT's live trading environment and compute cluster. The 
+initial runtime of the Bookbuilder was about 7 seconds but I was able to optimize the code to bring the runtime down to 2.5 seconds, one of the best runtimes in the event.
+Below is the README.md doc from Hudson River Trading that explains the workshop and how to run the code. All code is property of Hudson River Trading and should not be 
+plagiarized in any manner.
+
+-----------------------------------------------------------------------------------
+
 This workshop will give you a taste of what it's like to work as a Core
 Developer at HRT. There are many teams at HRT that write code, but the Core team
 works on all of the low-level infrastructure that supports our trading. One
